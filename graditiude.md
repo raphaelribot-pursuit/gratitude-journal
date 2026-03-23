@@ -1,0 +1,3 @@
+# Gratitude Journal 03/23/26
+
+Im grateful for the ability to take this class and opportunity to rebuild my life.
