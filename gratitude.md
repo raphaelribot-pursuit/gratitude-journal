@@ -5,3 +5,4 @@ Im interested in seeing what happens when I add another line
 It's pretty easy to use Github
 testing out cursor now.
 add this line to test new branch
+im grateful this class isnt a waste of my time
