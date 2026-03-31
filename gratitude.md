@@ -7,3 +7,4 @@ testing out cursor now.
 add this line to test new branch
 im grateful this class isnt a waste of my time
 Im greatful for having a mind that thinks clearly
+im grateful to learn from my errors
